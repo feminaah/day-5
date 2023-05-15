@@ -1,0 +1,46 @@
+body{
+    background-image: url("home.png");
+}
+
+ul {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:white;
+    background-image: url("home.png");
+  }
+  
+  li {
+    float: left;
+    background-color:white;
+  }
+  
+  li a{
+    
+    display: block;
+    color: rgb(12, 12, 12);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color:white;
+  }
+  
+  li a:hover {
+    background-color: white;
+  }
+  
+
+
+button{
+   height:40px;
+   color: white;
+   background-color:#023aff ;
+   width: 100px;
+   border-radius: 10px;
+   margin: 10px;
+}
+    
+
+    
